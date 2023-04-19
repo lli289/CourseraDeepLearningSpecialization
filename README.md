@@ -4,7 +4,7 @@ Coursera: Deep Learning Specialization Course 1 to 5 by Andrew Ng
 
 ## Notes and Programming Assignments
 ### Course 1 Neural Networks and Deep Learning
-  * Lecture Notes
+  * Lecture Notes Week 1 to Week 4 [Course1_notes](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lecture%20Notes%20Bank/Course1_notes.pdf)
   * Week 1 Quiz
   * Week 1 Lab
 ### Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimizaiton
