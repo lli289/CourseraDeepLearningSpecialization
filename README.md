@@ -3,7 +3,7 @@ Deep Learning Specialization Course 1 to 5 by Andrew Ng
 
 ## Lecture Notes Bank
 *  [Course1 Lecture Notes Week 1 to Week 4](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lecture%20Notes%20Bank/Course1_notes.pdf)
-### Lab Bank
+## Lab Bank
 * Week 1 No Lab
 * Week 2 Labs:
    + [Python Basics with Numpy (optional assignment)](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lab%20Bank/Course%201/Week%202/Python_Basics_with_Numpy.ipynb)
