@@ -1,8 +1,9 @@
 # CourseraDeepLearningSpeialization by deeplearning.ai
 Deep Learning Specialization Course 1 to 5 by Andrew Ng 
 
-## Lecture Notes Bank
+## My Notes Bank
 *  [Course1 Lecture Notes Week 1 to Week 4](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lecture%20Notes%20Bank/Course1_notes.pdf)
+*  [Course2 Lecture Notes Week 1 to Week 3](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lecture%20Notes%20Bank/Course2_notes.pdf)
 ## Lab Bank
 ### Course 1: Neural Networks and Deep Learning
 * Week 1 No Lab
