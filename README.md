@@ -43,13 +43,13 @@ Deep Learning Specialization Course 1 to 5 by Andrew Ng
   + [Building your Recurrent Neural Network - Step by Step](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lab%20Bank/Course%205/Week%201/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
   + [Character level language model - Dinosaurus Island](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lab%20Bank/Course%205/Week%201/Dinosaurus_Island_Character_level_language_model.ipynb)
   + [Improvise a Jazz Solo with an LSTM Network](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lab%20Bank/Course%205/Week%201/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
-* Week 2
+* Week 2 Labs:
   + [Operations on Word Vectors](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lab%20Bank/Course%205/Week%202/Operations_on_word_vectors_v2a.ipynb)
   + [Emojify!](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lab%20Bank/Course%205/Week%202/Emoji_v3a.ipynb)
-* Week 3
+* Week 3 Labs:
   + [Neural Machine Translation](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lab%20Bank/Course%205/Week%203/Neural_machine_translation_with_attention_v4a.ipynb)
   + [Trigger Word Detection](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lab%20Bank/Course%205/Week%203/Trigger_word_detection_v2a.ipynb)
-* Week 4
+* Week 4 Lab:
   + [Transformer Network](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lab%20Bank/Course%205/Week%204/C5_W4_A1_Transformer_Subclass_v1.ipynb)
 ## Quiz Bank
 ### Course 1: Neural Networks and Deep Learning
@@ -62,5 +62,15 @@ Deep Learning Specialization Course 1 to 5 by Andrew Ng
 * Week 2 Quiz
 * Week 3 Quiz
 ### Course 3: Structuring Machine Learning Projects
+* Week 1 Quiz
+* Week 2 Quiz
 ### Course 4: Convolutional Neural Networks
+* Week 1 Quiz
+* Week 2 Quiz
+* Week 3 Quiz
+* Week 4 Quiz
 ### Course 5: Sequence Models
+* Week 1 Quiz
+* Week 2 Quiz
+* Week 3 Quiz
+* Week 4 Quiz
