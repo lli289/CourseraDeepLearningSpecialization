@@ -54,7 +54,7 @@ Deep Learning Specialization Course 1 to 5 by Andrew Ng
   + [Transformer Network](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Lab%20Bank/Course%205/Week%204/C5_W4_A1_Transformer_Subclass_v1.ipynb)
 ## Quiz Bank
 ### Course 1: Neural Networks and Deep Learning
-* Week 1 Quiz
+* Week 1 Quiz [Introduction to Deep Learning](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%201/Week%201%20Introduction%20to%20Deep%20Learning.pdf)
 * Week 2 Quiz
 * Week 3 Quiz
 * Week 4 Quiz
