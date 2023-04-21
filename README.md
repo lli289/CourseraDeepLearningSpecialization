@@ -61,7 +61,7 @@ Deep Learning Specialization Course 1 to 5 by Andrew Ng
 * Week 4 Quiz [Key Concepts on Deep Neural Networks](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%201/Week%204%20Key%20Concepts%20on%20Deep%20Neural%20Networks.pdf)
 ### Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimizaiton
 * Week 1 Quiz [Practical aspects of Deep Learning](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%202/Week%201%20Practical%20aspects%20of%20Deep%20Learning.pdf)
-* Week 2 Quiz [Optimization Algorithms]
+* Week 2 Quiz [Optimization Algorithms](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%202/Week%202%20Optimization%20Algorithms.pdf)
 * Week 3 Quiz [Hyperparameter tuning, Batch Normalization, Programming Frameworks]
 ### Course 3: Structuring Machine Learning Projects
 * Week 1 Quiz
