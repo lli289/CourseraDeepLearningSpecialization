@@ -69,9 +69,9 @@ Deep Learning Specialization Course 1 to 5 by Andrew Ng
 * Week 2 Quiz [Autonomous Driving (Case Study)](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%203/Week%202%20Autonomous%20Driving%20(Case%20Study).pdf)
 ### Course 4: Convolutional Neural Networks
 * Week 1 Quiz [The Basics of ConvNets](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%204/Week%201%20The%20Basics%20of%20ConvNets.pdf)
-* Week 2 Quiz
-* Week 3 Quiz
-* Week 4 Quiz
+* Week 2 Quiz [Deep Convolutional Models](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%204/Week%202%20Deep%20Convolutional%20Models.pdf)
+* Week 3 Quiz [Detection Algorithms](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%204/Week%203%20Detection%20Algorithms.pdf)
+* Week 4 Quiz [Special Applications Face Recognition and Neural Style Transfer](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%204/Week%204%20Special%20Applications%20Face%20Recognition%20and%20Neural%20Style%20Transfer.pdf)
 ### Course 5: Sequence Models
 * Week 1 Quiz
 * Week 2 Quiz
