@@ -65,10 +65,10 @@ Deep Learning Specialization Course 1 to 5 by Andrew Ng
 * Week 2 Quiz [Optimization Algorithms](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%202/Week%202%20Optimization%20Algorithms.pdf)
 * Week 3 Quiz [Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%202/Week%203%20Hyperparameter%20tuning%2C%20Batch%20Normalization%2C%20Programming%20Frameworks.pdf)
 ### Course 3: Structuring Machine Learning Projects
-* Week 1 Quiz [Create Week 1 Bird Recognition in the City of Peacetopia Case Study](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%203/Week%201%20Bird%20Recognition%20in%20the%20City%20of%20Peacetopia%20Case%20Study.pdf)
-* Week 2 Quiz
+* Week 1 Quiz [Bird Recognition in the City of Peacetopia (Case Study)](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%203/Week%201%20Bird%20Recognition%20in%20the%20City%20of%20Peacetopia%20Case%20Study.pdf)
+* Week 2 Quiz [Autonomous Driving (Case Study)](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%203/Week%202%20Autonomous%20Driving%20(Case%20Study).pdf)
 ### Course 4: Convolutional Neural Networks
-* Week 1 Quiz
+* Week 1 Quiz [The Basics of ConvNets](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%204/Week%201%20The%20Basics%20of%20ConvNets.pdf)
 * Week 2 Quiz
 * Week 3 Quiz
 * Week 4 Quiz
