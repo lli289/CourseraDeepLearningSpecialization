@@ -74,6 +74,6 @@ Deep Learning Specialization Course 1 to 5 by Andrew Ng
 * Week 4 Quiz [Special Applications Face Recognition and Neural Style Transfer](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%204/Week%204%20Special%20Applications%20Face%20Recognition%20and%20Neural%20Style%20Transfer.pdf)
 ### Course 5: Sequence Models
 * Week 1 Quiz [Recurrent Neural Networks](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%205/Week%201%20Recurrent%20Neural%20Networks.pdf)
-* Week 2 Quiz [Natural Language Processing and Word Embeddings]
-* Week 3 Quiz [Sequence Models and Attention Mechanism]
+* Week 2 Quiz [Natural Language Processing and Word Embeddings](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%205/Week%202%20Natural%20Language%20Processing%20and%20Word%20Embeddings.pdf)
+* Week 3 Quiz [Sequence Models and Attention Mechanism](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/Quiz%20Bank/Course%205/Week%203%20Sequence%20models%20and%20Attention%20Mechanism.pdf)
 * Week 4 Quiz [Trasformers]
