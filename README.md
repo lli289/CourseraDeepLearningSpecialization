@@ -2,6 +2,7 @@
 Deep Learning Specialization Course 1 to 5 by Andrew Ng 
 
 ## My Notes Bank
+Please note that these notes are quite general, as they were taken during the lecture video.
 *  [Course1 Lecture Notes Week 1 to Week 4](https://github.com/lli289/CourseraDeepLearningSpecialization/blob/main/My%20Notes%20Bank/Course1_notes.pdf)
 *  [Course2 Lecture Notes Week 1 to Week 3](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/My%20Notes%20Bank/Course2_notes.pdf)
 *  [Course3 Lecture Notes Week 1 to Week 2](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/My%20Notes%20Bank/Course3_notes.pdf)
