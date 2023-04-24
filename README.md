@@ -6,7 +6,6 @@ Deep Learning Specialization Course 1 to 5 by Andrew Ng
 *  [Course2 Lecture Notes Week 1 to Week 3](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/My%20Notes%20Bank/Course2_notes.pdf)
 *  [Course3 Lecture Notes Week 1 to Week 2](https://github.com/lli289/CourseraDeepLearningSpeialization/blob/main/My%20Notes%20Bank/Course3_notes.pdf)
 *  [Course4 Lecture Notes Week 1 to Week 4](https://github.com/lli289/CourseraDeepLearningSpecialization/blob/main/My%20Notes%20Bank/Course4_notes.pdf)
-*  [Course5 Lecture Notes Week 1 to Week 3] coming up
 ## Lab Bank
 ### Course 1: Neural Networks and Deep Learning
 * Week 1 No Lab
